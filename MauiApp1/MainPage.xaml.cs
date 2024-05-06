@@ -3,7 +3,7 @@
     public partial class MainPage : ContentPage
     {
         int count = 0;
-        string prueba = "prueba-v1";
+        string prueba = "prueba-v2-compilacion";
 
         public MainPage()
         {
